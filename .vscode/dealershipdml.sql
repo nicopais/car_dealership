@@ -20,6 +20,6 @@ INSERT INTO car(
 ) VALUES(
     '5432',
     'honda',
-    'civic'
+    'civic',
     '2022'
 )
